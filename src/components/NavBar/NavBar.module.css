@@ -1,0 +1,42 @@
+li {
+    display: inline;
+
+    
+}
+
+.navBar {
+    background:  url('../../assets/image/wave.png');
+    height: 390px;
+    background-size: cover;
+
+}
+
+
+.contaner {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 100%;
+    padding-top: 50px;
+    align-items: center;
+    color: white;
+}
+
+.labelName{
+    display: flex;
+    font-family: 'Comfortaa', sans-serif;
+
+}
+
+.profile{
+
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+
+.authButton{
+
+    display: flex;
+}
